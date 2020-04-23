@@ -1,0 +1,30 @@
+{
+	"name": "exam-batch-demo",
+	"job_config": {
+		"max_attempt": 3,
+		"passing_grade": 0.75
+	},
+	"mturk_config": {
+		"sandbox": true,
+		"reward_per_hit": 0.05,
+		"num_of_hits": 5,
+		"title": "Easy qualification demo (max attempt 3)",
+		"description": "Passing this qualification grants you access to work on project X.",
+		"keywords": "qualification, testing keywords",
+		"lifetime_min": "60*24*30",
+		"session_duration_min": "60*3",
+		"auto_approval_min": "60*24*7",
+		"include_qualifications": [],
+		"exclude_qualifications": [],
+		"require_master": false,
+		"require_US": false,
+		"access_key_file": ""
+	},
+	"layout_config": {
+		"exam_name": "exam-demo",
+		"layout": "random",
+		"instruction_name": "instruction-demo",
+		"tutorial_name": "tutorial-demo",
+	    "num_questions": 3
+	}
+}

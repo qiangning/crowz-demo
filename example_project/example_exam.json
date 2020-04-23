@@ -1,0 +1,101 @@
+{
+    "name": "exam-demo",
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question_id": "1",
+            "question": "1. What is the main reason so many people moved to California in 1849?",
+            "options": {
+                "A" : "California land was fertile, plentiful, and inexpensive.",
+                "B" : "Gold was discovered in central California.",
+                "C" : "The east was preparing for a civil war.",
+                "D" : "They wanted to establish religious settlements."
+            },
+            "answer": "A"
+        },
+        {
+            "type": "multiple-choice",
+            "question_id": "2",
+            "question": "2. What is the main reason so many people moved to California in 1849?",
+            "options": {
+                "A" : "California land was fertile, plentiful, and inexpensive.",
+                "B" : "Gold was discovered in central California.",
+                "C" : "The east was preparing for a civil war.",
+                "D" : "They wanted to establish religious settlements."
+            },
+            "answer": "A"
+        },
+        {
+            "type": "multiple-choice",
+            "question_id": "3",
+            "question": "3. What is the main reason so many people moved to California in 1849?",
+            "options": {
+                "A" : "California land was fertile, plentiful, and inexpensive.",
+                "B" : "Gold was discovered in central California.",
+                "C" : "The east was preparing for a civil war.",
+                "D" : "They wanted to establish religious settlements."
+            },
+            "answer": "A"
+        },
+        {
+            "type": "multiple-choice",
+            "question_id": "4",
+            "question": "4. What is the main reason so many people moved to California in 1849?",
+            "options": {
+                "A" : "California land was fertile, plentiful, and inexpensive.",
+                "B" : "Gold was discovered in central California.",
+                "C" : "The east was preparing for a civil war.",
+                "D" : "They wanted to establish religious settlements."
+            },
+            "answer": "A"
+        },
+        {
+            "type": "multiple-choice",
+            "question_id": "5",
+            "question": "5. What is the main reason so many people moved to California in 1849?",
+            "options": {
+                "A" : "California land was fertile, plentiful, and inexpensive.",
+                "B" : "Gold was discovered in central California.",
+                "C" : "The east was preparing for a civil war.",
+                "D" : "They wanted to establish religious settlements."
+            },
+            "answer": "A"
+        },
+        {
+            "type": "multiple-choice",
+            "question_id": "6",
+            "question": "6. What is the main reason so many people moved to California in 1849?",
+            "options": {
+                "A" : "California land was fertile, plentiful, and inexpensive.",
+                "B" : "Gold was discovered in central California.",
+                "C" : "The east was preparing for a civil war.",
+                "D" : "They wanted to establish religious settlements."
+            },
+            "answer": "A"
+        },
+        {
+            "type": "multiple-choice",
+            "question_id": "7",
+            "question": "7. What is the main reason so many people moved to California in 1849?",
+            "options": {
+                "A" : "California land was fertile, plentiful, and inexpensive.",
+                "B" : "Gold was discovered in central California.",
+                "C" : "The east was preparing for a civil war.",
+                "D" : "They wanted to establish religious settlements."
+            },
+            "answer": "A"
+        },
+        {
+            "type": "multiple-choice",
+            "question_id": "8",
+            "question": "8. What is the main reason so many people moved to California in 1849?",
+            "options": {
+                "A" : "California land was fertile, plentiful, and inexpensive.",
+                "B" : "Gold was discovered in central California.",
+                "C" : "The east was preparing for a civil war.",
+                "D" : "They wanted to establish religious settlements."
+            },
+            "answer": "A"
+        }
+    ]
+}
