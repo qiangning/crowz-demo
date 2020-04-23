@@ -1,0 +1,312 @@
+{
+  "data": [
+    {
+      "answer": {
+        "2": {
+          "answer": "A"
+        },
+        "6": {
+          "answer": "A"
+        },
+        "7": {
+          "answer": "A"
+        }
+      },
+      "creation_time": "2020-04-23T23:40:51+00:00Z",
+      "exam_batch_name": "exam-batch-demo",
+      "exam_name": "exam-demo",
+      "grade": [
+        0.3333333333333333
+      ],
+      "pid": 1587685251287020519,
+      "response_details": [
+        {
+          "hit_data": {
+            "assignment_id": "",
+            "exam_assignment_id": "1587685251287020519",
+            "exam_batch_name": "exam-batch-demo",
+            "hit_id": "",
+            "post_submit": false,
+            "project_id": "",
+            "provider_name": "qiang",
+            "submit_to": "/mturk/externalSubmit",
+            "worker_id": "TESTWORKER"
+          },
+          "user_response": {
+            "2": "C",
+            "6": "B",
+            "7": "A"
+          }
+        }
+      ],
+      "response_time": "2020-04-23T23:41:17+00:00Z",
+      "worker_id": [
+        "TESTWORKER"
+      ]
+    },
+    {
+      "answer": {
+        "1": {
+          "answer": "A"
+        },
+        "2": {
+          "answer": "A"
+        },
+        "6": {
+          "answer": "A"
+        }
+      },
+      "creation_time": "2020-04-23T23:42:12+00:00Z",
+      "exam_batch_name": "exam-batch-demo",
+      "exam_name": "exam-demo",
+      "grade": [
+        1.0
+      ],
+      "pid": 1587685332883950958,
+      "response_details": [
+        {
+          "hit_data": {
+            "assignment_id": "",
+            "exam_assignment_id": "1587685332883950958",
+            "exam_batch_name": "exam-batch-demo",
+            "hit_id": "",
+            "post_submit": false,
+            "project_id": "",
+            "provider_name": "qiang",
+            "submit_to": "/mturk/externalSubmit",
+            "worker_id": "TESTWORKER2"
+          },
+          "user_response": {
+            "1": "A",
+            "2": "A",
+            "6": "A"
+          }
+        }
+      ],
+      "response_time": "2020-04-23T23:42:18+00:00Z",
+      "worker_id": [
+        "TESTWORKER2"
+      ]
+    },
+    {
+      "answer": {
+        "3": {
+          "answer": "A"
+        },
+        "6": {
+          "answer": "A"
+        },
+        "7": {
+          "answer": "A"
+        }
+      },
+      "creation_time": "2020-04-23T23:43:11+00:00Z",
+      "exam_batch_name": "exam-batch-demo",
+      "exam_name": "exam-demo",
+      "grade": [
+        0.6666666666666666
+      ],
+      "pid": 1587685391034880654,
+      "response_details": [
+        {
+          "hit_data": {
+            "assignment_id": "",
+            "exam_assignment_id": "1587685391034880654",
+            "exam_batch_name": "exam-batch-demo",
+            "hit_id": "",
+            "post_submit": false,
+            "project_id": "",
+            "provider_name": "qiang",
+            "submit_to": "/mturk/externalSubmit",
+            "worker_id": "TESTWORKER3"
+          },
+          "user_response": {
+            "3": "A",
+            "6": "B",
+            "7": "A"
+          }
+        }
+      ],
+      "response_time": "2020-04-23T23:43:14+00:00Z",
+      "worker_id": [
+        "TESTWORKER3"
+      ]
+    },
+    {
+      "answer": {
+        "6": {
+          "answer": "A"
+        },
+        "7": {
+          "answer": "A"
+        },
+        "8": {
+          "answer": "A"
+        }
+      },
+      "creation_time": "2020-04-23T23:43:24+00:00Z",
+      "exam_batch_name": "exam-batch-demo",
+      "exam_name": "exam-demo",
+      "grade": [
+        1.0
+      ],
+      "pid": 1587685404959550884,
+      "response_details": [
+        {
+          "hit_data": {
+            "assignment_id": "",
+            "exam_assignment_id": "1587685404959550884",
+            "exam_batch_name": "exam-batch-demo",
+            "hit_id": "",
+            "post_submit": false,
+            "project_id": "",
+            "provider_name": "qiang",
+            "submit_to": "/mturk/externalSubmit",
+            "worker_id": "TESTWORKER3"
+          },
+          "user_response": {
+            "6": "A",
+            "7": "A",
+            "8": "A"
+          }
+        }
+      ],
+      "response_time": "2020-04-23T23:43:31+00:00Z",
+      "worker_id": [
+        "TESTWORKER3"
+      ]
+    },
+    {
+      "answer": {
+        "1": {
+          "answer": "A"
+        },
+        "2": {
+          "answer": "A"
+        },
+        "5": {
+          "answer": "A"
+        }
+      },
+      "creation_time": "2020-04-23T23:43:44+00:00Z",
+      "exam_batch_name": "exam-batch-demo",
+      "exam_name": "exam-demo",
+      "grade": [
+        0.0
+      ],
+      "pid": 1587685424982510408,
+      "response_details": [
+        {
+          "hit_data": {
+            "assignment_id": "",
+            "exam_assignment_id": "1587685424982510408",
+            "exam_batch_name": "exam-batch-demo",
+            "hit_id": "",
+            "post_submit": false,
+            "project_id": "",
+            "provider_name": "qiang",
+            "submit_to": "/mturk/externalSubmit",
+            "worker_id": "TESTWORKER4"
+          },
+          "user_response": {
+            "1": "D",
+            "2": "D",
+            "5": "D"
+          }
+        }
+      ],
+      "response_time": "2020-04-23T23:43:49+00:00Z",
+      "worker_id": [
+        "TESTWORKER4"
+      ]
+    },
+    {
+      "answer": {
+        "4": {
+          "answer": "A"
+        },
+        "7": {
+          "answer": "A"
+        },
+        "8": {
+          "answer": "A"
+        }
+      },
+      "creation_time": "2020-04-23T23:44:00+00:00Z",
+      "exam_batch_name": "exam-batch-demo",
+      "exam_name": "exam-demo",
+      "grade": [
+        0.0
+      ],
+      "pid": 1587685440087770071,
+      "response_details": [
+        {
+          "hit_data": {
+            "assignment_id": "",
+            "exam_assignment_id": "1587685440087770071",
+            "exam_batch_name": "exam-batch-demo",
+            "hit_id": "",
+            "post_submit": false,
+            "project_id": "",
+            "provider_name": "qiang",
+            "submit_to": "/mturk/externalSubmit",
+            "worker_id": "TESTWORKER4"
+          },
+          "user_response": {
+            "4": "D",
+            "7": "D",
+            "8": "D"
+          }
+        }
+      ],
+      "response_time": "2020-04-23T23:44:04+00:00Z",
+      "worker_id": [
+        "TESTWORKER4"
+      ]
+    },
+    {
+      "answer": {
+        "3": {
+          "answer": "A"
+        },
+        "4": {
+          "answer": "A"
+        },
+        "8": {
+          "answer": "A"
+        }
+      },
+      "creation_time": "2020-04-23T23:44:14+00:00Z",
+      "exam_batch_name": "exam-batch-demo",
+      "exam_name": "exam-demo",
+      "grade": [
+        0.0
+      ],
+      "pid": 1587685454442920643,
+      "response_details": [
+        {
+          "hit_data": {
+            "assignment_id": "",
+            "exam_assignment_id": "1587685454442920643",
+            "exam_batch_name": "exam-batch-demo",
+            "hit_id": "",
+            "post_submit": false,
+            "project_id": "",
+            "provider_name": "qiang",
+            "submit_to": "/mturk/externalSubmit",
+            "worker_id": "TESTWORKER4"
+          },
+          "user_response": {
+            "3": "D",
+            "4": "D",
+            "8": "D"
+          }
+        }
+      ],
+      "response_time": "2020-04-23T23:44:17+00:00Z",
+      "worker_id": [
+        "TESTWORKER4"
+      ]
+    }
+  ]
+}
